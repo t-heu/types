@@ -4,6 +4,13 @@
 
 [@types/react-admin](https://github.com/t-heu/types/tree/master/react-admin)
 
+## 🔭 install
+1. git clone URL
+2. move the CHOSEN REPOSITORY file to node_modules/@types
+3. end
+
+Obs: not yet available in package managers.
+
 ## Versioning/Versionamento
 
 Esse projeto não possui um sistema de versionamento.
